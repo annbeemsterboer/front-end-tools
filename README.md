@@ -4,3 +4,4 @@ Lukt het jou deze repository te clonen en jouw eerste commit toe te voegen? Voeg
 
 Annemarie was here.
 Julia too
+Ruud too
